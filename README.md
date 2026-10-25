@@ -8,12 +8,12 @@ An exploratory data analysis and visualization project analyzing unemployment tr
 ## 📌 Project Overview
 This project aims to analyze unemployment data to uncover key insights regarding employment rates, economic trends, and variations across different regions/periods. Using Python and various data science libraries, the dataset is explored, cleaned, and visualized to present meaningful conclusions.
 
-## 🚀 Features & Workflow
+## Features & Workflow
 - **Data Cleaning & Preprocessing:** Handling missing values, formatting columns, and preparing the dataset for analysis.
 - **Exploratory Data Analysis (EDA):** Discovering trends, patterns, and correlations within the unemployment data.
 - **Data Visualization:** Generating informative plots and charts (using Matplotlib and Seaborn) to represent insights clearly.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Environment:** Jupyter Notebook / Kaggle Notebook
